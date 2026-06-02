@@ -1,0 +1,18 @@
+DATA QUALITY SUMMARY
+
+Fund Master:
+- 1000 records
+- No duplicates
+
+NAV History:
+- Date needs datetime conversion
+- 3 missing NAV values
+
+Portfolio Holdings:
+- 2 missing sectors
+
+Benchmark:
+- No issues
+
+AMFI Validation:
+- 100% scheme codes matched

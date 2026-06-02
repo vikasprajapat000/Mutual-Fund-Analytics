@@ -1,0 +1,389 @@
+scheme_code,fund_name,sector,stock_name,holding_weight_pct,market_cap_category
+125497,SBI Bluechip Fund Direct Plan Growth,Chemicals,Aarti Industries,35.46,Small Cap
+125497,SBI Bluechip Fund Direct Plan Growth,Metals,Tata Steel,37.02,Mid Cap
+125497,SBI Bluechip Fund Direct Plan Growth,Auto,Hero MotoCorp,7.6,Mid Cap
+125497,SBI Bluechip Fund Direct Plan Growth,Infrastructure,IRB Infra,0.74,Large Cap
+125497,SBI Bluechip Fund Direct Plan Growth,Insurance,Max Life,10.29,Small Cap
+125497,SBI Bluechip Fund Direct Plan Growth,Healthcare,Fortis,8.89,Large Cap
+119418,HDFC Top 100 Fund Direct Growth,IT,Tech Mahindra,4.27,Small Cap
+119418,HDFC Top 100 Fund Direct Growth,Consumer Durables,Titan,12.68,Small Cap
+119418,HDFC Top 100 Fund Direct Growth,Pharma,Cipla,4.87,Small Cap
+119418,HDFC Top 100 Fund Direct Growth,FMCG,Nestle India,4.82,Large Cap
+119418,HDFC Top 100 Fund Direct Growth,Insurance,HDFC Life,11.27,Mid Cap
+119418,HDFC Top 100 Fund Direct Growth,Infrastructure,L&T,11.71,Mid Cap
+119418,HDFC Top 100 Fund Direct Growth,Banking,Kotak Mahindra Bank,0.58,Large Cap
+119418,HDFC Top 100 Fund Direct Growth,Real Estate,Sobha,4.36,Large Cap
+119418,HDFC Top 100 Fund Direct Growth,Auto,M&M,11.13,Large Cap
+119418,HDFC Top 100 Fund Direct Growth,Power,JSW Energy,8.87,Large Cap
+119418,HDFC Top 100 Fund Direct Growth,Healthcare,Narayana Hrudayalaya,8.03,Small Cap
+119418,HDFC Top 100 Fund Direct Growth,Metals,JSW Steel,2.69,Small Cap
+119418,HDFC Top 100 Fund Direct Growth,Telecom,Vodafone Idea,14.73,Large Cap
+148540,ICICI Prudential Bluechip Fund Direct Growth,FMCG,HUL,28.14,Large Cap
+148540,ICICI Prudential Bluechip Fund Direct Growth,Healthcare,Apollo Hospitals,9.85,Mid Cap
+148540,ICICI Prudential Bluechip Fund Direct Growth,Consumer Durables,Titan,3.12,Large Cap
+148540,ICICI Prudential Bluechip Fund Direct Growth,Telecom,Railtel,16.59,Large Cap
+148540,ICICI Prudential Bluechip Fund Direct Growth,Real Estate,Godrej Properties,3.84,Large Cap
+148540,ICICI Prudential Bluechip Fund Direct Growth,Auto,Hero MotoCorp,27.02,Large Cap
+148540,ICICI Prudential Bluechip Fund Direct Growth,Banking,SBI,11.45,Large Cap
+135773,Nippon India Large Cap Fund Direct Growth,Infrastructure,Siemens,0.05,Mid Cap
+135773,Nippon India Large Cap Fund Direct Growth,Real Estate,Sobha,10.78,Mid Cap
+135773,Nippon India Large Cap Fund Direct Growth,Energy,NTPC,5.08,Small Cap
+135773,Nippon India Large Cap Fund Direct Growth,Insurance,SBI Life,4.19,Small Cap
+135773,Nippon India Large Cap Fund Direct Growth,Power,JSW Energy,4.56,Small Cap
+135773,Nippon India Large Cap Fund Direct Growth,Consumer Durables,Bajaj Electricals,8.67,Mid Cap
+135773,Nippon India Large Cap Fund Direct Growth,Banking,Axis Bank,10.0,Mid Cap
+135773,Nippon India Large Cap Fund Direct Growth,Auto,M&M,10.97,Small Cap
+135773,Nippon India Large Cap Fund Direct Growth,Metals,Vedanta,13.57,Small Cap
+135773,Nippon India Large Cap Fund Direct Growth,Telecom,Indus Towers,2.67,Large Cap
+135773,Nippon India Large Cap Fund Direct Growth,Pharma,Dr Reddy's,11.56,Large Cap
+135773,Nippon India Large Cap Fund Direct Growth,Chemicals,Pidilite,9.26,Large Cap
+135773,Nippon India Large Cap Fund Direct Growth,Healthcare,Fortis,0.53,Mid Cap
+135773,Nippon India Large Cap Fund Direct Growth,FMCG,HUL,8.1,Large Cap
+142517,Kotak Bluechip Fund Direct Growth,Infrastructure,IRB Infra,12.07,Small Cap
+142517,Kotak Bluechip Fund Direct Growth,Real Estate,Prestige Estates,8.97,Mid Cap
+142517,Kotak Bluechip Fund Direct Growth,FMCG,Britannia,13.3,Mid Cap
+142517,Kotak Bluechip Fund Direct Growth,Pharma,Sun Pharma,19.8,Mid Cap
+142517,Kotak Bluechip Fund Direct Growth,Insurance,SBI Life,19.41,Small Cap
+142517,Kotak Bluechip Fund Direct Growth,Auto,Tata Motors,20.04,Large Cap
+142517,Kotak Bluechip Fund Direct Growth,Banking,ICICI Bank,6.41,Large Cap
+118834,Axis Bluechip Fund Direct Growth,Telecom,Bharti Airtel,13.03,Small Cap
+118834,Axis Bluechip Fund Direct Growth,Metals,SAIL,24.23,Small Cap
+118834,Axis Bluechip Fund Direct Growth,Healthcare,Apollo Hospitals,23.37,Large Cap
+118834,Axis Bluechip Fund Direct Growth,Chemicals,UPL,26.41,Small Cap
+118834,Axis Bluechip Fund Direct Growth,Consumer Durables,Bajaj Electricals,12.96,Small Cap
+122639,UTI Large Cap Fund Direct Growth,FMCG,HUL,9.1,Large Cap
+122639,UTI Large Cap Fund Direct Growth,Telecom,Railtel,16.2,Large Cap
+122639,UTI Large Cap Fund Direct Growth,Pharma,Sun Pharma,12.4,Small Cap
+122639,UTI Large Cap Fund Direct Growth,Metals,Hindalco,15.47,Large Cap
+122639,UTI Large Cap Fund Direct Growth,Healthcare,Fortis,0.29,Small Cap
+122639,UTI Large Cap Fund Direct Growth,Insurance,Birla Sun Life,7.65,Small Cap
+122639,UTI Large Cap Fund Direct Growth,Auto,Hero MotoCorp,13.06,Large Cap
+122639,UTI Large Cap Fund Direct Growth,Real Estate,DLF,13.55,Small Cap
+122639,UTI Large Cap Fund Direct Growth,Energy,NTPC,12.28,Small Cap
+133322,ABSL Frontline Equity Fund Direct Growth,Banking,SBI,6.27,Mid Cap
+133322,ABSL Frontline Equity Fund Direct Growth,Auto,M&M,0.37,Large Cap
+133322,ABSL Frontline Equity Fund Direct Growth,Pharma,Dr Reddy's,9.74,Small Cap
+133322,ABSL Frontline Equity Fund Direct Growth,Infrastructure,L&T,3.95,Mid Cap
+133322,ABSL Frontline Equity Fund Direct Growth,IT,HCL Tech,16.37,Large Cap
+133322,ABSL Frontline Equity Fund Direct Growth,Energy,NTPC,14.82,Small Cap
+133322,ABSL Frontline Equity Fund Direct Growth,Chemicals,Aarti Industries,14.52,Mid Cap
+133322,ABSL Frontline Equity Fund Direct Growth,FMCG,ITC,1.97,Small Cap
+133322,ABSL Frontline Equity Fund Direct Growth,Healthcare,Max Healthcare,17.41,Mid Cap
+133322,ABSL Frontline Equity Fund Direct Growth,Telecom,Bharti Airtel,14.58,Small Cap
+147839,Mirae Asset Large Cap Fund Direct Growth,Banking,HDFC Bank,10.6,Large Cap
+147839,Mirae Asset Large Cap Fund Direct Growth,Consumer Durables,Voltas,4.9,Large Cap
+147839,Mirae Asset Large Cap Fund Direct Growth,Auto,Maruti Suzuki,13.15,Mid Cap
+147839,Mirae Asset Large Cap Fund Direct Growth,Power,NTPC,18.07,Large Cap
+147839,Mirae Asset Large Cap Fund Direct Growth,Metals,JSW Steel,3.4,Small Cap
+147839,Mirae Asset Large Cap Fund Direct Growth,Chemicals,UPL,15.56,Large Cap
+147839,Mirae Asset Large Cap Fund Direct Growth,Pharma,Cipla,11.57,Large Cap
+147839,Mirae Asset Large Cap Fund Direct Growth,Real Estate,Prestige Estates,9.54,Small Cap
+147839,Mirae Asset Large Cap Fund Direct Growth,Healthcare,Medanta,1.79,Large Cap
+147839,Mirae Asset Large Cap Fund Direct Growth,FMCG,Britannia,11.42,Mid Cap
+151234,Tata Large Cap Fund Direct Growth,Insurance,ICICI Prudential Life,3.73,Mid Cap
+151234,Tata Large Cap Fund Direct Growth,FMCG,Dabur,15.96,Small Cap
+151234,Tata Large Cap Fund Direct Growth,Real Estate,Oberoi Realty,20.46,Large Cap
+151234,Tata Large Cap Fund Direct Growth,Consumer Durables,Havells,20.18,Mid Cap
+151234,Tata Large Cap Fund Direct Growth,Healthcare,Max Healthcare,8.78,Mid Cap
+151234,Tata Large Cap Fund Direct Growth,Banking,Kotak Mahindra Bank,20.33,Small Cap
+151234,Tata Large Cap Fund Direct Growth,Power,Torrent Power,10.56,Large Cap
+128472,SBI Small Cap Fund Direct Growth,Energy,ONGC,13.2,Small Cap
+128472,SBI Small Cap Fund Direct Growth,Consumer Durables,Titan,13.68,Small Cap
+128472,SBI Small Cap Fund Direct Growth,Telecom,Bharti Airtel,6.44,Large Cap
+128472,SBI Small Cap Fund Direct Growth,Real Estate,Sobha,7.98,Small Cap
+128472,SBI Small Cap Fund Direct Growth,FMCG,Dabur,6.04,Large Cap
+128472,SBI Small Cap Fund Direct Growth,Power,JSW Energy,2.69,Mid Cap
+128472,SBI Small Cap Fund Direct Growth,Insurance,Max Life,11.66,Large Cap
+128472,SBI Small Cap Fund Direct Growth,Pharma,Biocon,9.55,Large Cap
+128472,SBI Small Cap Fund Direct Growth,IT,Tech Mahindra,0.77,Small Cap
+128472,SBI Small Cap Fund Direct Growth,Infrastructure,Adani Ports,12.83,Small Cap
+128472,SBI Small Cap Fund Direct Growth,Banking,ICICI Bank,15.16,Mid Cap
+138291,HDFC Small Cap Fund Direct Growth,Insurance,Birla Sun Life,12.21,Mid Cap
+138291,HDFC Small Cap Fund Direct Growth,FMCG,ITC,6.15,Large Cap
+138291,HDFC Small Cap Fund Direct Growth,Metals,Tata Steel,8.82,Mid Cap
+138291,HDFC Small Cap Fund Direct Growth,Power,JSW Energy,2.91,Large Cap
+138291,HDFC Small Cap Fund Direct Growth,IT,Infosys,3.72,Large Cap
+138291,HDFC Small Cap Fund Direct Growth,Banking,Axis Bank,10.02,Large Cap
+138291,HDFC Small Cap Fund Direct Growth,Infrastructure,KNR Constructions,8.45,Large Cap
+138291,HDFC Small Cap Fund Direct Growth,Healthcare,Apollo Hospitals,0.15,Mid Cap
+138291,HDFC Small Cap Fund Direct Growth,Real Estate,Oberoi Realty,6.36,Small Cap
+138291,HDFC Small Cap Fund Direct Growth,Auto,Maruti Suzuki,2.75,Large Cap
+138291,HDFC Small Cap Fund Direct Growth,Chemicals,Atul Ltd,3.49,Mid Cap
+138291,HDFC Small Cap Fund Direct Growth,Energy,Power Grid,14.4,Mid Cap
+138291,HDFC Small Cap Fund Direct Growth,Consumer Durables,Titan,3.75,Large Cap
+138291,HDFC Small Cap Fund Direct Growth,Telecom,Railtel,8.37,Small Cap
+138291,HDFC Small Cap Fund Direct Growth,Pharma,Cipla,8.45,Mid Cap
+145672,ICICI Pru Smallcap Fund Direct Growth,Telecom,Indus Towers,23.58,Large Cap
+145672,ICICI Pru Smallcap Fund Direct Growth,Pharma,Dr Reddy's,7.6,Large Cap
+145672,ICICI Pru Smallcap Fund Direct Growth,Banking,Kotak Mahindra Bank,10.19,Mid Cap
+145672,ICICI Pru Smallcap Fund Direct Growth,Insurance,ICICI Prudential Life,13.3,Large Cap
+145672,ICICI Pru Smallcap Fund Direct Growth,FMCG,Britannia,9.49,Mid Cap
+145672,ICICI Pru Smallcap Fund Direct Growth,IT,TCS,3.69,Mid Cap
+145672,ICICI Pru Smallcap Fund Direct Growth,Chemicals,UPL,9.96,Mid Cap
+145672,ICICI Pru Smallcap Fund Direct Growth,Power,Torrent Power,6.26,Small Cap
+145672,ICICI Pru Smallcap Fund Direct Growth,Energy,Power Grid,15.93,Large Cap
+116543,Nippon India Small Cap Fund Direct Growth,IT,TCS,23.04,Mid Cap
+116543,Nippon India Small Cap Fund Direct Growth,Telecom,Tata Comm,5.96,Mid Cap
+116543,Nippon India Small Cap Fund Direct Growth,Chemicals,Atul Ltd,21.23,Small Cap
+116543,Nippon India Small Cap Fund Direct Growth,Energy,NTPC,12.67,Small Cap
+116543,Nippon India Small Cap Fund Direct Growth,Real Estate,Oberoi Realty,20.85,Small Cap
+116543,Nippon India Small Cap Fund Direct Growth,Metals,SAIL,5.2,Mid Cap
+116543,Nippon India Small Cap Fund Direct Growth,Power,JSW Energy,2.67,Large Cap
+116543,Nippon India Small Cap Fund Direct Growth,Infrastructure,Adani Ports,8.38,Large Cap
+139847,Kotak Small Cap Fund Direct Growth,Pharma,Cipla,15.24,Small Cap
+139847,Kotak Small Cap Fund Direct Growth,Auto,M&M,25.71,Small Cap
+139847,Kotak Small Cap Fund Direct Growth,FMCG,Dabur,24.5,Mid Cap
+139847,Kotak Small Cap Fund Direct Growth,Metals,Vedanta,20.64,Small Cap
+139847,Kotak Small Cap Fund Direct Growth,Chemicals,Aarti Industries,13.91,Mid Cap
+120987,SBI Midcap Fund Direct Growth,Telecom,Vodafone Idea,3.65,Large Cap
+120987,SBI Midcap Fund Direct Growth,Energy,ONGC,5.24,Mid Cap
+120987,SBI Midcap Fund Direct Growth,FMCG,Dabur,2.35,Mid Cap
+120987,SBI Midcap Fund Direct Growth,Pharma,Biocon,10.97,Mid Cap
+120987,SBI Midcap Fund Direct Growth,Chemicals,SRF,11.95,Small Cap
+120987,SBI Midcap Fund Direct Growth,Infrastructure,Adani Ports,11.66,Mid Cap
+120987,SBI Midcap Fund Direct Growth,IT,Wipro,9.81,Large Cap
+120987,SBI Midcap Fund Direct Growth,Insurance,Max Life,10.96,Mid Cap
+120987,SBI Midcap Fund Direct Growth,Power,NTPC,13.72,Large Cap
+120987,SBI Midcap Fund Direct Growth,Healthcare,Narayana Hrudayalaya,7.36,Large Cap
+120987,SBI Midcap Fund Direct Growth,Banking,ICICI Bank,11.32,Small Cap
+120987,SBI Midcap Fund Direct Growth,Real Estate,Sobha,1.02,Small Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Healthcare,Narayana Hrudayalaya,8.16,Small Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Telecom,Vodafone Idea,13.63,Large Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Pharma,Cipla,13.59,Small Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Insurance,Birla Sun Life,8.0,Small Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Auto,Bajaj Auto,14.2,Small Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Infrastructure,Siemens,12.37,Mid Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Chemicals,SRF,0.13,Large Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Power,JSW Energy,1.61,Small Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Real Estate,Sobha,2.46,Large Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,IT,HCL Tech,7.18,Large Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Banking,Axis Bank,0.12,Large Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,FMCG,HUL,6.31,Small Cap
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,Metals,Hindalco,12.25,Large Cap
+137654,ICICI Pru Midcap Fund Direct Growth,FMCG,Nestle India,4.33,Large Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Auto,Tata Motors,11.97,Mid Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Power,NTPC,18.52,Large Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Real Estate,DLF,17.17,Large Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Infrastructure,L&T,7.39,Small Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Telecom,Indus Towers,14.42,Mid Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Healthcare,Medanta,3.43,Mid Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Energy,ONGC,8.23,Mid Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Consumer Durables,Bajaj Electricals,5.39,Mid Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Metals,SAIL,5.86,Small Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Chemicals,SRF,2.77,Small Cap
+137654,ICICI Pru Midcap Fund Direct Growth,Banking,Kotak Mahindra Bank,0.51,Large Cap
+149012,Nippon India Midcap Fund Direct Growth,Auto,Tata Motors,5.01,Small Cap
+149012,Nippon India Midcap Fund Direct Growth,FMCG,HUL,4.91,Large Cap
+149012,Nippon India Midcap Fund Direct Growth,Real Estate,DLF,17.61,Small Cap
+149012,Nippon India Midcap Fund Direct Growth,Banking,SBI,9.97,Small Cap
+149012,Nippon India Midcap Fund Direct Growth,Insurance,Birla Sun Life,5.4,Mid Cap
+149012,Nippon India Midcap Fund Direct Growth,Pharma,Sun Pharma,18.65,Large Cap
+149012,Nippon India Midcap Fund Direct Growth,Metals,JSW Steel,24.98,Small Cap
+149012,Nippon India Midcap Fund Direct Growth,Consumer Durables,Havells,13.48,Mid Cap
+124567,Kotak Emerging Equity Fund Direct Growth,Healthcare,Max Healthcare,12.23,Large Cap
+124567,Kotak Emerging Equity Fund Direct Growth,Banking,SBI,28.62,Mid Cap
+124567,Kotak Emerging Equity Fund Direct Growth,Infrastructure,Siemens,16.05,Mid Cap
+124567,Kotak Emerging Equity Fund Direct Growth,Auto,Maruti Suzuki,14.69,Large Cap
+124567,Kotak Emerging Equity Fund Direct Growth,IT,TCS,3.8,Small Cap
+124567,Kotak Emerging Equity Fund Direct Growth,Chemicals,Atul Ltd,24.61,Large Cap
+132198,SBI ELSS Tax Saver Fund Direct Growth,Auto,M&M,12.97,Small Cap
+132198,SBI ELSS Tax Saver Fund Direct Growth,Metals,Tata Steel,13.72,Small Cap
+132198,SBI ELSS Tax Saver Fund Direct Growth,Healthcare,Max Healthcare,45.27,Small Cap
+132198,SBI ELSS Tax Saver Fund Direct Growth,Pharma,Sun Pharma,7.45,Large Cap
+132198,SBI ELSS Tax Saver Fund Direct Growth,IT,Infosys,20.59,Mid Cap
+146783,HDFC ELSS Tax Saver Fund Direct Growth,Telecom,Railtel,26.39,Small Cap
+146783,HDFC ELSS Tax Saver Fund Direct Growth,Chemicals,Atul Ltd,13.72,Small Cap
+146783,HDFC ELSS Tax Saver Fund Direct Growth,Pharma,Cipla,14.52,Small Cap
+146783,HDFC ELSS Tax Saver Fund Direct Growth,Metals,Vedanta,21.12,Small Cap
+146783,HDFC ELSS Tax Saver Fund Direct Growth,Healthcare,Apollo Hospitals,0.11,Large Cap
+146783,HDFC ELSS Tax Saver Fund Direct Growth,Consumer Durables,Havells,24.14,Mid Cap
+141234,ICICI Pru ELSS Tax Saver Fund Direct Growth,Energy,Reliance Industries,15.43,Large Cap
+141234,ICICI Pru ELSS Tax Saver Fund Direct Growth,Infrastructure,Adani Ports,13.26,Mid Cap
+141234,ICICI Pru ELSS Tax Saver Fund Direct Growth,Telecom,Indus Towers,19.61,Small Cap
+141234,ICICI Pru ELSS Tax Saver Fund Direct Growth,Insurance,SBI Life,18.61,Small Cap
+141234,ICICI Pru ELSS Tax Saver Fund Direct Growth,FMCG,Britannia,10.98,Mid Cap
+141234,ICICI Pru ELSS Tax Saver Fund Direct Growth,Pharma,Cipla,6.36,Large Cap
+141234,ICICI Pru ELSS Tax Saver Fund Direct Growth,Chemicals,Atul Ltd,15.75,Small Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,Telecom,Bharti Airtel,8.93,Small Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,IT,Infosys,11.34,Mid Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,Auto,Bajaj Auto,10.84,Mid Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,Insurance,SBI Life,8.39,Mid Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,Banking,HDFC Bank,8.04,Mid Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,Healthcare,Medanta,0.16,Small Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,FMCG,Nestle India,14.41,Mid Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,Metals,Vedanta,18.0,Small Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,Infrastructure,IRB Infra,7.62,Small Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,Pharma,Dr Reddy's,5.06,Large Cap
+115678,Axis ELSS Tax Saver Fund Direct Growth,Power,Torrent Power,7.21,Small Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Energy,Coal India,11.2,Mid Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Pharma,Biocon,8.6,Large Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Metals,SAIL,10.0,Mid Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Insurance,Birla Sun Life,6.8,Large Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Auto,Hero MotoCorp,1.06,Large Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Banking,Axis Bank,3.52,Mid Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,FMCG,Nestle India,4.8,Large Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Telecom,Indus Towers,4.99,Large Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Consumer Durables,Havells,4.03,Small Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Chemicals,UPL,2.07,Small Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Infrastructure,L&T,12.29,Small Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Power,Tata Power,10.53,Mid Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Real Estate,Prestige Estates,7.74,Mid Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,IT,HCL Tech,2.0,Large Cap
+150345,UTI ELSS Tax Saver Fund Direct Growth,Healthcare,Medanta,10.37,Mid Cap
+127890,SBI Liquid Fund Direct Growth,Telecom,Tata Comm,10.16,Large Cap
+127890,SBI Liquid Fund Direct Growth,Healthcare,Narayana Hrudayalaya,5.24,Small Cap
+127890,SBI Liquid Fund Direct Growth,Power,Tata Power,7.66,Small Cap
+127890,SBI Liquid Fund Direct Growth,Pharma,Sun Pharma,6.98,Large Cap
+127890,SBI Liquid Fund Direct Growth,Insurance,Birla Sun Life,6.89,Mid Cap
+127890,SBI Liquid Fund Direct Growth,Energy,Power Grid,15.62,Large Cap
+127890,SBI Liquid Fund Direct Growth,Infrastructure,L&T,16.04,Large Cap
+127890,SBI Liquid Fund Direct Growth,Auto,Hero MotoCorp,14.88,Large Cap
+127890,SBI Liquid Fund Direct Growth,Metals,JSW Steel,16.54,Large Cap
+134567,HDFC Liquid Fund Direct Growth,IT,Wipro,6.21,Small Cap
+134567,HDFC Liquid Fund Direct Growth,Chemicals,SRF,4.73,Small Cap
+134567,HDFC Liquid Fund Direct Growth,Insurance,Max Life,20.7,Small Cap
+134567,HDFC Liquid Fund Direct Growth,Infrastructure,Adani Ports,2.3,Mid Cap
+134567,HDFC Liquid Fund Direct Growth,Pharma,Dr Reddy's,12.64,Small Cap
+134567,HDFC Liquid Fund Direct Growth,Energy,NTPC,4.74,Small Cap
+134567,HDFC Liquid Fund Direct Growth,Power,Tata Power,10.14,Mid Cap
+134567,HDFC Liquid Fund Direct Growth,Auto,Bajaj Auto,19.6,Large Cap
+134567,HDFC Liquid Fund Direct Growth,Banking,SBI,18.95,Small Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Energy,NTPC,9.14,Large Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Banking,Axis Bank,5.74,Small Cap
+121098,ICICI Pru Liquid Fund Direct Growth,IT,Tech Mahindra,6.88,Mid Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Healthcare,Max Healthcare,5.35,Small Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Chemicals,Pidilite,9.64,Mid Cap
+121098,ICICI Pru Liquid Fund Direct Growth,FMCG,HUL,0.59,Large Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Metals,Tata Steel,1.9,Mid Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Telecom,Bharti Airtel,5.95,Mid Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Insurance,HDFC Life,10.63,Small Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Pharma,Sun Pharma,2.43,Small Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Real Estate,Sobha,11.22,Small Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Consumer Durables,Whirlpool,10.11,Small Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Auto,Hero MotoCorp,11.52,Mid Cap
+121098,ICICI Pru Liquid Fund Direct Growth,Infrastructure,KNR Constructions,8.9,Small Cap
+144321,SBI Gilt Fund Direct Growth,Healthcare,Fortis,22.25,Small Cap
+144321,SBI Gilt Fund Direct Growth,Consumer Durables,Havells,3.35,Small Cap
+144321,SBI Gilt Fund Direct Growth,Banking,HDFC Bank,4.64,Large Cap
+144321,SBI Gilt Fund Direct Growth,Power,Adani Green,11.02,Large Cap
+144321,SBI Gilt Fund Direct Growth,Insurance,HDFC Life,10.52,Large Cap
+144321,SBI Gilt Fund Direct Growth,Real Estate,Oberoi Realty,11.71,Mid Cap
+144321,SBI Gilt Fund Direct Growth,Telecom,Indus Towers,12.0,Mid Cap
+144321,SBI Gilt Fund Direct Growth,Pharma,Cipla,24.52,Small Cap
+136789,HDFC Gilt Fund Direct Growth,FMCG,HUL,6.67,Mid Cap
+136789,HDFC Gilt Fund Direct Growth,Banking,ICICI Bank,12.0,Mid Cap
+136789,HDFC Gilt Fund Direct Growth,Auto,Maruti Suzuki,8.14,Small Cap
+136789,HDFC Gilt Fund Direct Growth,Power,JSW Energy,0.74,Large Cap
+136789,HDFC Gilt Fund Direct Growth,Pharma,Dr Reddy's,9.47,Large Cap
+136789,HDFC Gilt Fund Direct Growth,Real Estate,Prestige Estates,4.37,Mid Cap
+136789,HDFC Gilt Fund Direct Growth,Infrastructure,Siemens,6.18,Small Cap
+136789,HDFC Gilt Fund Direct Growth,Energy,Coal India,7.32,Large Cap
+136789,HDFC Gilt Fund Direct Growth,Telecom,Bharti Airtel,7.46,Large Cap
+136789,HDFC Gilt Fund Direct Growth,Consumer Durables,Bajaj Electricals,2.35,Small Cap
+136789,HDFC Gilt Fund Direct Growth,Insurance,Max Life,12.94,Mid Cap
+136789,HDFC Gilt Fund Direct Growth,Healthcare,Fortis,1.01,Small Cap
+136789,HDFC Gilt Fund Direct Growth,IT,HCL Tech,12.69,Small Cap
+136789,HDFC Gilt Fund Direct Growth,Metals,SAIL,4.74,Small Cap
+136789,HDFC Gilt Fund Direct Growth,Chemicals,Pidilite,3.9,Mid Cap
+152167,ICICI Pru Gilt Fund Direct Growth,FMCG,Nestle India,11.54,Large Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Auto,Bajaj Auto,9.03,Mid Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Power,JSW Energy,7.51,Mid Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Metals,Hindalco,2.83,Small Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Insurance,Birla Sun Life,4.93,Small Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Consumer Durables,Bajaj Electricals,2.66,Large Cap
+152167,ICICI Pru Gilt Fund Direct Growth,IT,Wipro,8.85,Large Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Energy,ONGC,7.84,Small Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Real Estate,DLF,8.34,Large Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Telecom,Vodafone Idea,5.28,Large Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Pharma,Divis Labs,6.72,Mid Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Chemicals,UPL,3.69,Large Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Banking,Axis Bank,8.53,Mid Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Infrastructure,Siemens,1.63,Large Cap
+152167,ICICI Pru Gilt Fund Direct Growth,Healthcare,Narayana Hrudayalaya,10.63,Small Cap
+118765,SBI Corporate Bond Fund Direct Growth,Consumer Durables,Titan,1.02,Mid Cap
+118765,SBI Corporate Bond Fund Direct Growth,Infrastructure,KNR Constructions,11.83,Small Cap
+118765,SBI Corporate Bond Fund Direct Growth,Healthcare,Max Healthcare,1.59,Large Cap
+118765,SBI Corporate Bond Fund Direct Growth,Auto,Maruti Suzuki,9.15,Mid Cap
+118765,SBI Corporate Bond Fund Direct Growth,IT,Wipro,9.92,Large Cap
+118765,SBI Corporate Bond Fund Direct Growth,Metals,JSW Steel,13.8,Small Cap
+118765,SBI Corporate Bond Fund Direct Growth,Energy,Power Grid,2.61,Mid Cap
+118765,SBI Corporate Bond Fund Direct Growth,Real Estate,Prestige Estates,16.02,Mid Cap
+118765,SBI Corporate Bond Fund Direct Growth,FMCG,Dabur,5.41,Large Cap
+118765,SBI Corporate Bond Fund Direct Growth,Banking,ICICI Bank,13.66,Small Cap
+118765,SBI Corporate Bond Fund Direct Growth,Chemicals,Pidilite,15.0,Large Cap
+140987,HDFC Corporate Bond Fund Direct Growth,Infrastructure,KNR Constructions,8.79,Large Cap
+140987,HDFC Corporate Bond Fund Direct Growth,FMCG,ITC,13.1,Small Cap
+140987,HDFC Corporate Bond Fund Direct Growth,Chemicals,Aarti Industries,22.75,Mid Cap
+140987,HDFC Corporate Bond Fund Direct Growth,Energy,Reliance Industries,23.66,Small Cap
+140987,HDFC Corporate Bond Fund Direct Growth,Metals,SAIL,31.7,Large Cap
+123456,ICICI Pru Corporate Bond Fund Direct Growth,Telecom,Tata Comm,13.28,Large Cap
+123456,ICICI Pru Corporate Bond Fund Direct Growth,Power,NTPC,6.34,Large Cap
+123456,ICICI Pru Corporate Bond Fund Direct Growth,Healthcare,Max Healthcare,5.84,Mid Cap
+123456,ICICI Pru Corporate Bond Fund Direct Growth,Consumer Durables,Bajaj Electricals,6.5,Large Cap
+123456,ICICI Pru Corporate Bond Fund Direct Growth,Metals,Tata Steel,11.09,Small Cap
+123456,ICICI Pru Corporate Bond Fund Direct Growth,Insurance,Birla Sun Life,9.99,Large Cap
+123456,ICICI Pru Corporate Bond Fund Direct Growth,Real Estate,Oberoi Realty,26.48,Mid Cap
+123456,ICICI Pru Corporate Bond Fund Direct Growth,Infrastructure,Adani Ports,20.49,Small Cap
+138543,SBI Balanced Advantage Fund Direct Growth,Auto,Bajaj Auto,18.78,Large Cap
+138543,SBI Balanced Advantage Fund Direct Growth,Infrastructure,Adani Ports,18.78,Small Cap
+138543,SBI Balanced Advantage Fund Direct Growth,Telecom,Tata Comm,5.03,Mid Cap
+138543,SBI Balanced Advantage Fund Direct Growth,Real Estate,Godrej Properties,3.37,Small Cap
+138543,SBI Balanced Advantage Fund Direct Growth,FMCG,Britannia,1.4,Large Cap
+138543,SBI Balanced Advantage Fund Direct Growth,Insurance,Birla Sun Life,10.5,Small Cap
+138543,SBI Balanced Advantage Fund Direct Growth,Power,JSW Energy,0.89,Mid Cap
+138543,SBI Balanced Advantage Fund Direct Growth,Chemicals,SRF,17.69,Mid Cap
+138543,SBI Balanced Advantage Fund Direct Growth,Energy,Power Grid,4.84,Mid Cap
+138543,SBI Balanced Advantage Fund Direct Growth,Banking,Axis Bank,8.63,Small Cap
+138543,SBI Balanced Advantage Fund Direct Growth,Pharma,Dr Reddy's,10.1,Small Cap
+147210,HDFC Balanced Advantage Fund Direct Growth,Pharma,Cipla,15.42,Large Cap
+147210,HDFC Balanced Advantage Fund Direct Growth,Power,NTPC,4.52,Mid Cap
+147210,HDFC Balanced Advantage Fund Direct Growth,Chemicals,Aarti Industries,12.81,Mid Cap
+147210,HDFC Balanced Advantage Fund Direct Growth,Infrastructure,Adani Ports,14.88,Small Cap
+147210,HDFC Balanced Advantage Fund Direct Growth,FMCG,Britannia,3.71,Large Cap
+147210,HDFC Balanced Advantage Fund Direct Growth,IT,Infosys,6.24,Mid Cap
+147210,HDFC Balanced Advantage Fund Direct Growth,Consumer Durables,Havells,15.43,Mid Cap
+147210,HDFC Balanced Advantage Fund Direct Growth,Auto,Tata Motors,15.57,Mid Cap
+147210,HDFC Balanced Advantage Fund Direct Growth,Metals,SAIL,5.32,Mid Cap
+147210,HDFC Balanced Advantage Fund Direct Growth,Real Estate,Godrej Properties,6.09,Large Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,IT,Wipro,5.76,Mid Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Infrastructure,IRB Infra,4.44,Mid Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Insurance,SBI Life,4.01,Small Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Healthcare,Max Healthcare,7.5,Large Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Pharma,Cipla,0.15,Large Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Auto,Maruti Suzuki,8.03,Large Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Power,Adani Green,6.76,Mid Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,FMCG,Nestle India,8.17,Mid Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Telecom,Bharti Airtel,10.58,Small Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Banking,SBI,10.32,Large Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Energy,ONGC,6.27,Large Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Consumer Durables,Bajaj Electricals,9.43,Mid Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Chemicals,UPL,5.36,Small Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Metals,Vedanta,6.71,Mid Cap
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,Real Estate,Sobha,6.52,Mid Cap
+153456,SBI Technology Opportunities Fund Direct Growth,Metals,SAIL,13.42,Large Cap
+153456,SBI Technology Opportunities Fund Direct Growth,FMCG,HUL,15.32,Large Cap
+153456,SBI Technology Opportunities Fund Direct Growth,Banking,ICICI Bank,15.69,Large Cap
+153456,SBI Technology Opportunities Fund Direct Growth,Telecom,Railtel,0.32,Small Cap
+153456,SBI Technology Opportunities Fund Direct Growth,Insurance,ICICI Prudential Life,8.64,Small Cap
+153456,SBI Technology Opportunities Fund Direct Growth,Pharma,Dr Reddy's,20.13,Large Cap
+153456,SBI Technology Opportunities Fund Direct Growth,Infrastructure,Siemens,26.48,Mid Cap
+131234,SBI Healthcare Opportunities Fund Direct Growth,Telecom,Vodafone Idea,17.59,Large Cap
+131234,SBI Healthcare Opportunities Fund Direct Growth,FMCG,ITC,10.92,Large Cap
+131234,SBI Healthcare Opportunities Fund Direct Growth,Energy,Reliance Industries,10.3,Small Cap
+131234,SBI Healthcare Opportunities Fund Direct Growth,Healthcare,Apollo Hospitals,3.59,Small Cap
+131234,SBI Healthcare Opportunities Fund Direct Growth,Pharma,Cipla,16.16,Small Cap
+131234,SBI Healthcare Opportunities Fund Direct Growth,Power,NTPC,4.03,Large Cap
+131234,SBI Healthcare Opportunities Fund Direct Growth,Insurance,HDFC Life,15.55,Small Cap
+131234,SBI Healthcare Opportunities Fund Direct Growth,Metals,JSW Steel,8.32,Large Cap
+131234,SBI Healthcare Opportunities Fund Direct Growth,Real Estate,Sobha,13.54,Small Cap
+154321,Nippon India Gold Savings Fund Direct Growth,Power,Tata Power,7.0,Mid Cap
+154321,Nippon India Gold Savings Fund Direct Growth,Chemicals,Atul Ltd,9.86,Large Cap
+154321,Nippon India Gold Savings Fund Direct Growth,Pharma,Dr Reddy's,1.18,Small Cap
+154321,Nippon India Gold Savings Fund Direct Growth,Metals,SAIL,14.16,Mid Cap
+154321,Nippon India Gold Savings Fund Direct Growth,FMCG,HUL,15.52,Large Cap
+154321,Nippon India Gold Savings Fund Direct Growth,Healthcare,Fortis,0.97,Mid Cap
+154321,Nippon India Gold Savings Fund Direct Growth,Consumer Durables,Voltas,14.47,Small Cap
+154321,Nippon India Gold Savings Fund Direct Growth,Insurance,SBI Life,10.17,Mid Cap
+154321,Nippon India Gold Savings Fund Direct Growth,Real Estate,Prestige Estates,7.02,Mid Cap
+154321,Nippon India Gold Savings Fund Direct Growth,Auto,Hero MotoCorp,14.59,Small Cap
+154321,Nippon India Gold Savings Fund Direct Growth,Banking,ICICI Bank,5.07,Mid Cap

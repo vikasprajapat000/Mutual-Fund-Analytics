@@ -1,0 +1,41 @@
+scheme_code,fund_name,amc_name,category,risk_grade,benchmark,fund_manager,expense_ratio
+125497,SBI Bluechip Fund Direct Plan Growth,SBI Mutual Fund,Large Cap,Low,Nifty 50 TRI,Rajesh Sharma,1.26
+119418,HDFC Top 100 Fund Direct Growth,HDFC Mutual Fund,Mid Cap,Moderate,Nifty Next 50 TRI,Priya Patel,0.34
+148540,ICICI Prudential Bluechip Fund Direct Growth,ICICI Prudential,Small Cap,Moderately High,Nifty Midcap 150 TRI,Amit Verma,0.71
+135773,Nippon India Large Cap Fund Direct Growth,Nippon India,ELSS,High,Nifty Smallcap 250 TRI,Sneha Reddy,0.63
+142517,Kotak Bluechip Fund Direct Growth,Kotak Mahindra,Liquid,Very High,Nifty 500 TRI,Vikram Singh,1.4
+118834,Axis Bluechip Fund Direct Growth,Axis Mutual Fund,Gilt,Low,CRISIL Liquid Index,Ananya Gupta,1.32
+122639,UTI Large Cap Fund Direct Growth,UTI Mutual Fund,Corporate Bond,Moderate,Nifty G-Sec Index,Rahul Joshi,1.64
+133322,ABSL Frontline Equity Fund Direct Growth,Aditya Birla Sun Life,Balanced Hybrid,Moderately High,Nifty 50 Hybrid Composite,Pooja Nair,0.43
+147839,Mirae Asset Large Cap Fund Direct Growth,Mirae Asset,Aggressive Hybrid,High,Nifty 50 TRI,Arun Kumar,0.93
+151234,Tata Large Cap Fund Direct Growth,Tata Mutual Fund,Index Funds,Very High,Nifty Next 50 TRI,Divya Menon,0.34
+128472,SBI Small Cap Fund Direct Growth,SBI Mutual Fund,Sectoral - IT,Low,Nifty Midcap 150 TRI,Karan Mehta,0.63
+138291,HDFC Small Cap Fund Direct Growth,HDFC Mutual Fund,Sectoral - Pharma,Moderate,Nifty Smallcap 250 TRI,Iyer Srinivasan,1.06
+145672,ICICI Pru Smallcap Fund Direct Growth,ICICI Prudential,Value,Moderately High,Nifty 500 TRI,Rajesh Sharma,0.34
+116543,Nippon India Small Cap Fund Direct Growth,Nippon India,Dividend Yield,High,CRISIL Liquid Index,Priya Patel,0.6
+139847,Kotak Small Cap Fund Direct Growth,Kotak Mahindra,Large Cap,Very High,Nifty G-Sec Index,Amit Verma,1.27
+120987,SBI Midcap Fund Direct Growth,Axis Mutual Fund,Mid Cap,Low,Nifty 50 Hybrid Composite,Sneha Reddy,1.12
+143256,HDFC Mid-Cap Opportunities Fund Direct Growth,UTI Mutual Fund,Small Cap,Moderate,Nifty 50 TRI,Vikram Singh,0.63
+137654,ICICI Pru Midcap Fund Direct Growth,Aditya Birla Sun Life,ELSS,Moderately High,Nifty Next 50 TRI,Ananya Gupta,1.18
+149012,Nippon India Midcap Fund Direct Growth,Mirae Asset,Liquid,High,Nifty Midcap 150 TRI,Rahul Joshi,1.51
+124567,Kotak Emerging Equity Fund Direct Growth,Tata Mutual Fund,Gilt,Very High,Nifty Smallcap 250 TRI,Pooja Nair,0.31
+132198,SBI ELSS Tax Saver Fund Direct Growth,SBI Mutual Fund,Corporate Bond,Low,Nifty 500 TRI,Arun Kumar,1.51
+146783,HDFC ELSS Tax Saver Fund Direct Growth,HDFC Mutual Fund,Balanced Hybrid,Moderate,CRISIL Liquid Index,Divya Menon,1.35
+141234,ICICI Pru ELSS Tax Saver Fund Direct Growth,ICICI Prudential,Aggressive Hybrid,Moderately High,Nifty G-Sec Index,Karan Mehta,0.81
+115678,Axis ELSS Tax Saver Fund Direct Growth,Nippon India,Index Funds,High,Nifty 50 Hybrid Composite,Iyer Srinivasan,0.53
+150345,UTI ELSS Tax Saver Fund Direct Growth,Kotak Mahindra,Sectoral - IT,Very High,Nifty 50 TRI,Rajesh Sharma,1.74
+127890,SBI Liquid Fund Direct Growth,Axis Mutual Fund,Sectoral - Pharma,Low,Nifty Next 50 TRI,Priya Patel,0.8
+134567,HDFC Liquid Fund Direct Growth,UTI Mutual Fund,Value,Moderate,Nifty Midcap 150 TRI,Amit Verma,0.44
+121098,ICICI Pru Liquid Fund Direct Growth,Aditya Birla Sun Life,Dividend Yield,Moderately High,Nifty Smallcap 250 TRI,Sneha Reddy,0.45
+144321,SBI Gilt Fund Direct Growth,Mirae Asset,Large Cap,High,Nifty 500 TRI,Vikram Singh,1.57
+136789,HDFC Gilt Fund Direct Growth,Tata Mutual Fund,Mid Cap,Very High,CRISIL Liquid Index,Ananya Gupta,1.21
+152167,ICICI Pru Gilt Fund Direct Growth,SBI Mutual Fund,Small Cap,Low,Nifty G-Sec Index,Rahul Joshi,1.51
+118765,SBI Corporate Bond Fund Direct Growth,HDFC Mutual Fund,ELSS,Moderate,Nifty 50 Hybrid Composite,Pooja Nair,1.39
+140987,HDFC Corporate Bond Fund Direct Growth,ICICI Prudential,Liquid,Moderately High,Nifty 50 TRI,Arun Kumar,1.1
+123456,ICICI Pru Corporate Bond Fund Direct Growth,Nippon India,Gilt,High,Nifty Next 50 TRI,Divya Menon,1.76
+138543,SBI Balanced Advantage Fund Direct Growth,Kotak Mahindra,Corporate Bond,Very High,Nifty Midcap 150 TRI,Karan Mehta,0.87
+147210,HDFC Balanced Advantage Fund Direct Growth,Axis Mutual Fund,Balanced Hybrid,Low,Nifty Smallcap 250 TRI,Iyer Srinivasan,1.13
+129876,ICICI Pru Balanced Advantage Fund Direct Growth,UTI Mutual Fund,Aggressive Hybrid,Moderate,Nifty 500 TRI,Rajesh Sharma,1.54
+153456,SBI Technology Opportunities Fund Direct Growth,Aditya Birla Sun Life,Index Funds,Moderately High,CRISIL Liquid Index,Priya Patel,1.23
+131234,SBI Healthcare Opportunities Fund Direct Growth,Mirae Asset,Sectoral - IT,High,Nifty G-Sec Index,Amit Verma,1.59
+154321,Nippon India Gold Savings Fund Direct Growth,Tata Mutual Fund,Sectoral - Pharma,Very High,Nifty 50 Hybrid Composite,Sneha Reddy,1.17
