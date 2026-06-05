@@ -4,3 +4,14 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 .idea/
+
+# Auto-generated API NAV files
+data/raw/Axis_Bluechip.csv
+data/raw/ICICI_Bluechip.csv
+data/raw/Kotak_Bluechip.csv
+data/raw/Nippon_Large_Cap.csv
+data/raw/SBI_Bluechip.csv
+data/raw/hdfc_top100_live_nav.csv
+
+# SQLite DB
+data/db/*.db

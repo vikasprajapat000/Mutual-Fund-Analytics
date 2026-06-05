@@ -1,41 +1,33 @@
 import pandas as pd
+import os
+
+RAW = os.path.join('data', 'raw')
 
 files = {
-    "Fund Master": "data/raw/01_fund_master.csv",
-    "NAV History": "data/raw/02_nav_history.csv",
-    "AUM": "data/raw/03_aum_by_fund_house.csv",
-    "SIP": "data/raw/04_monthly_sip_inflows.csv",
-    "Category Inflows": "data/raw/05_category_inflows.csv",
-    "Industry Folio": "data/raw/06_industry_folio_count.csv",
-    "Performance": "data/raw/07_scheme_performance.csv",
-    "Transactions": "data/raw/08_investor_transactions.csv",
-    "Portfolio": "data/raw/09_portfolio_holdings.csv",
-    "Benchmark": "data/raw/10_benchmark_indices.csv"
+    'Fund Master'        : '01_fund_master.csv',
+    'NAV History'        : '02_nav_history.csv',
+    'AUM by Fund House'  : '03_aum_by_fund_house.csv',
+    'Monthly SIP Inflows': '04_monthly_sip_inflows.csv',
+    'Category Inflows'   : '05_category_inflows.csv',
+    'Industry Folio Count': '06_industry_folio_count.csv',
+    'Scheme Performance' : '07_scheme_performance.csv',
+    'Investor Transactions': '08_investor_transactions.csv',
+    'Portfolio Holdings' : '09_portfolio_holdings.csv',
+    'Benchmark Indices'  : '10_benchmark_indices.csv',
 }
 
-for name, path in files.items():
-
-    print("\n" + "="*80)
+for name, filename in files.items():
+    path = os.path.join(RAW, filename)
+    print('=' * 60)
     print(name)
-    print("="*80)
-
+    print('=' * 60)
     try:
         df = pd.read_csv(path)
-
-        print("\nShape:")
-        print(df.shape)
-
-        print("\nColumns:")
-        print(df.columns.tolist())
-
-        print("\nDtypes:")
-        print(df.dtypes)
-
-        print("\nHead:")
-        print(df.head())
-
-        print("\nMissing Values:")
-        print(df.isnull().sum())
-
+        print('Shape       :', df.shape)
+        print('Columns     :', df.columns.tolist())
+        print('Dtypes:\n',    df.dtypes)
+        print('Head:\n',      df.head(3).to_string())
+        print('Missing:\n',   df.isnull().sum().to_string())
     except Exception as e:
-        print(f"Error: {e}")
+        print('Error:', e)
+    print()
